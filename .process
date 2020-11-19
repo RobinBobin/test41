@@ -1,0 +1,15 @@
+{
+   "action": "Logcat",
+   "Logcat": {
+      "filter": {
+         "default": [
+            "AndroidRuntime:E",
+            "System.err:W"
+         ],
+         "current": [
+            "AndroidRuntime:E",
+            "System.err:W"
+         ]
+      }
+   }
+}
